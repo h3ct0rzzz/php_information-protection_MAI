@@ -1,4 +1,6 @@
 # CakePHP 3
+.idea/
+config.php
 
 /vendor/*
 /config/app.php
